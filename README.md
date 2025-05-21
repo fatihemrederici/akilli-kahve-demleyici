@@ -9,3 +9,9 @@ Bu projede, Python ve bulanık mantık kullanarak kahve demleme süresi ve akı�
 
 ## Kurulum
 Uygulamayı çalıştırmak için terminal kullanarak "phthon3 main.py" kodunu yazıyoruz. Eğer gerekli bütün kaynak kütüphaneleriniz varsa uygulamamız doğru bir şekilde çalışmış oluyor.
+
+!!!!
+pip install PyQt5
+pip install scikit-fuzzy
+pip install scipy
+bu kütüphaneleri terminalden yüklemeniz gerekmektedir.
